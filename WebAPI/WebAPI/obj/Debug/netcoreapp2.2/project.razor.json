@@ -1,0 +1,19 @@
+{
+  "FilePath": "f:\\Courses\\ASP.Net\\Asp.net Core Full Project Tutorial\\Asp.Net Core Web API and Angular 7 CRUD - YouTube\\Final Project\\Asp.Net-Core-Web-API-and-Angular-7-CRUD-master\\WebAPI\\WebAPI\\WebAPI.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": "WebAPI",
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}
